@@ -1,0 +1,3 @@
+[submodule "week1/back"]
+	path = week1/back
+	url = https://github.com/Mbahersem/todo-hack.git
