@@ -17,7 +17,9 @@ $ flutter pub get
 ```bash
 # development
 $ flutter run --debug
+```
 
+```bash
 # production mode
 $ flutter build
 ```
