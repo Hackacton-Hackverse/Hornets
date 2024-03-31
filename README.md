@@ -23,3 +23,4 @@ $ flutter run --debug
 # production mode
 $ flutter build apk
 ```
+NB: Au niveau des taches All, In progress et Done, faire un slide vers la gauche sur une tache pour modifier son état
