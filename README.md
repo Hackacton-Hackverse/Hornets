@@ -21,5 +21,5 @@ $ flutter run --debug
 
 ```bash
 # production mode
-$ flutter build
+$ flutter build apk
 ```
